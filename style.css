@@ -5,7 +5,7 @@
 				Box-sizing: border-radius;
 }
 
-body{background-image:url('images/bgmobile.png') ;	
+body{background-image:url('bgmobile.png') ;	
      background-color:hsl(0, 100%, 74%) ;
      babackground-repeat: no-repeat;
      background-size: cover;	    
