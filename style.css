@@ -37,9 +37,9 @@ header{
      
 h1{
 				color: hsl(0, 0%, 100%);
-				margin-bottom: 20px;
-				padding-right:5px;
-     	padding-left:5px;
+				margin-bottom: 30px;
+				padding-right:15px;
+     	padding-left:15px;
 }
 
 p{
@@ -138,6 +138,9 @@ form strong{
 body{
        background-image:url('images/bgdesktop.png') ;	 
        width:100%;}
+	.main{
+				width: 100%;
+}
  .container{		
      		display: flex;		
  	    		flex-direction: row;	
