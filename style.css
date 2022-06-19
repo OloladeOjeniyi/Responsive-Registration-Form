@@ -138,9 +138,7 @@ form strong{
 body{
        background-image:url('images/bgdesktop.png') ;	 
        width:100%;}
-	main{
-				width: 100%;
-}
+	}
  .container{		
      		display: flex;		
  	    		flex-direction: row;	
