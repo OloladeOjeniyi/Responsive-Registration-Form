@@ -5,7 +5,7 @@
 				Box-sizing: border-radius;
 }
 
-body{background-image:url('images/bgmobile.png') ;	
+body{background-image:url('bgmobile.png') ;	
      background-color:hsl(0, 100%, 74%) ;
      babackground-repeat: no-repeat;
      background-size: cover;	    
@@ -136,7 +136,7 @@ form strong{
 @media screen and (min-width: 800px) 
 {	
 body{
-       background-image:url('images/bgdesktop.png') ;	 
+       background-image:url('bgdesktop.png') ;	 
        width:100%;}
  .container{		
      		display: flex;		
